@@ -9,6 +9,9 @@ https://ourairports.com/data/
 Airlines data is sourced from:
 https://github.com/benct/iata-utils
 
+Region Codes data is sourced from:
+https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes
+
 
 ## Disclaimer
 
